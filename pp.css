@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace VSC_FirstProject
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

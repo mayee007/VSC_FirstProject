@@ -1,0 +1,14 @@
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\VSC_FirstProject.deps.json
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\VSC_FirstProject.runtimeconfig.json
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\VSC_FirstProject.runtimeconfig.dev.json
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\VSC_FirstProject.dll
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\VSC_FirstProject.pdb
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.csprojAssemblyReference.cache
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.AssemblyInfoInputs.cache
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.AssemblyInfo.cs
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.dll
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\obj\Debug\netcoreapp2.1\VSC_FirstProject.pdb
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\mayee\VisualStudioWorkspace\VSC_FirstProject\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
